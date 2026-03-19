@@ -1,8 +1,8 @@
 import React from 'react';
 import './Team.css';
-import emithImg from '../assets/team/emith.png';
-import akithmaImg from '../assets/team/akithma.png';
-import sethumiImg from '../assets/team/sethumi.png';
+import emithImg from '../assets/team/Emith.png';
+import akithmaImg from '../assets/team/Akithma.png';
+import sethumiImg from '../assets/team/Sethumi.png';
 import useReveal from '../hooks/useReveal';
 
 const TeamMember = ({ name, role, img, linkedin, github, index, isVisible }) => (
